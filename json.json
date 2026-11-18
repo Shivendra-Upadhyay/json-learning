@@ -1,0 +1,22 @@
+{
+    "string" : "This is a string",
+    "number" : 123432.554,
+    "Boolean" : true,
+    "Array" : ["This", "Is","An","Array"],
+    "Array2" : [
+        "Testing the array's limits",
+        123456,
+        123456.789,
+        true,
+        null
+    ],
+    "NestedObjects":{
+        "students" : {
+            "Name" : "Shivendra",
+            "Year" : 4,
+            "isTeacher" : false,
+            "isstudent" : true
+        }
+    }
+    
+}
